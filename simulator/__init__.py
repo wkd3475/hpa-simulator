@@ -1,7 +1,7 @@
 """
 Description for Package
 """
-from simulator.hpa import HorizontalPodScaler
+from simulator.simulator import *
 
-__all__ = ['hpa']
+__all__ = ['simulator']
 __version__ = '0.1.0'
